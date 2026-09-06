@@ -33,7 +33,7 @@ $ wake_up neo
 
 ---
 
-## ⚡ ACTIVE SYSTEMS
+## [ ACTIVE_SYSTEMS ]
 
 ### CrashDash
 
@@ -78,7 +78,7 @@ Developer-tooling experiment built around the VS Code extension ecosystem.
 
 **Repo:** [github.com/arbtraderlabs/offcycle](https://github.com/arbtraderlabs/offcycle)
 
-## 📡 SIGNAL PATH
+## [ SIGNAL_PATH ]
 
 How systems here get built: AI is one tool inside an engineering process. Every AI-assisted step is surrounded by deterministic tests, validation and operational controls.
 
@@ -89,7 +89,7 @@ How systems here get built: AI is one tool inside an engineering process. Every 
 // AI-assisted where it helps
 ```
 
-## 🛠 OPERATOR TOOLKIT
+## [ OPERATOR_TOOLKIT ]
 
 `linux` `bash` `sql` `fix` `git` `docker` `typescript`
 
@@ -101,7 +101,7 @@ How systems here get built: AI is one tool inside an engineering process. Every 
 
 ---
 
-## 🧠 CURRENT EXPERIMENTS
+## [ CURRENT_EXPERIMENTS ]
 
 - making AI systems observable, testable and cheaper to run
 - using agents inside controlled production workflows
