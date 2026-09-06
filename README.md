@@ -31,43 +31,50 @@ $ wake_up neo
 
 ## [ ACTIVE_SYSTEMS ]
 
-### CrashDash
+```text
+[ CRASHDASH ]
+TYPE   market-data research platform
+STATE  PUBLIC
+FLOW   data -> validate -> signal -> publish
+```
 
 Automated market-data research and analytics platform for studying significant price dislocations across UK-listed equities.
 
-- market-data pipelines — historical & daily
+- historical & daily market-data pipelines
 - data-quality validation
 - deterministic research signals
 - regression & parity testing
-- Linux-hosted automation
-- static-site publishing · GitHub Pages
-
-```text
-market data → validation → signal engine → research output → static publication
-```
+- Linux-hosted automation · static publication (GitHub Pages)
 
 **Repo:** [github.com/arbtraderlabs/CrashDash](https://github.com/arbtraderlabs/CrashDash)
 
-### CryptoSquawk
+```text
+[ CRYPTOSQUAWK ]
+TYPE   event-driven AI market intelligence
+STATE  PRIVATE CORE
+FLOW   ingest -> enrich -> gate -> narrate
+```
 
-Event-driven AI market-intelligence system that condenses high-volume market events into a smaller set of real-time narratives.
+Condenses high-volume market events into a smaller set of useful real-time narratives.
 
 - event ingestion & normalisation
-- AI/LLM enrichment with structured outputs
+- AI/LLM structured enrichment
 - deterministic safety gates
-- production & shadow environments
-- replay & simulation
-- observability & health monitoring
-- AI cost controls & failure handling
+- production & shadow environments · replay / simulation
+- observability · health monitoring · AI cost controls
 
 Production core remains private while the architecture evolves.
 
-### Offcycle
+```text
+[ OFFCYCLE ]
+TYPE   VS Code developer tooling
+STATE  PUBLIC
+STACK  TypeScript -> VS Code API
+```
 
-Developer-tooling experiment built around the VS Code extension ecosystem.
+Lightweight developer-tooling experiment built around the VS Code extension ecosystem.
 
-- TypeScript
-- VS Code Extension APIs
+- TypeScript · VS Code Extension APIs
 - Git workflows
 - AI-assisted development
 - product experimentation
