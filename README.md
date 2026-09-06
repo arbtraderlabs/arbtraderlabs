@@ -65,9 +65,8 @@ Condenses high-volume market events into a smaller set of useful real-time narra
 - production observability
 - AI cost / latency controls
 
-[ OPEN LIVE SHOWCASE ](https://arbtraderlabs.github.io/cryptosquawk-showcase/)
-
-[ VIEW SHOWCASE REPO ](https://github.com/arbtraderlabs/cryptosquawk-showcase)
+SHOWCASE  https://arbtraderlabs.github.io/cryptosquawk-showcase/
+REPO      https://github.com/arbtraderlabs/cryptosquawk-showcase
 
 Production core remains private. Public showcase uses synthetic data.
 
