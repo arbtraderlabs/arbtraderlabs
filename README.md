@@ -51,11 +51,11 @@ Automated market-data research and analytics platform for studying significant p
 ```text
 [ CRYPTOSQUAWK ]
 TYPE   event-driven AI market intelligence
-STATE  PRIVATE CORE
+STATE  PRIVATE CORE / SHOWCASE LIVE
 FLOW   ingest -> enrich -> gate -> narrate
 ```
 
-Condenses high-volume market events into a smaller set of useful real-time narratives.
+Condenses high-volume market events into a smaller set of useful real-time narratives. The public showcase is a synthetic demonstration of the concept, workflow and controls.
 
 - event ingestion & normalisation
 - AI/LLM enrichment with structured outputs
@@ -65,7 +65,11 @@ Condenses high-volume market events into a smaller set of useful real-time narra
 - production observability
 - AI cost / latency controls
 
-Production core remains private while the architecture evolves.
+[ OPEN LIVE SHOWCASE ](https://arbtraderlabs.github.io/cryptosquawk-showcase/)
+
+[ VIEW SHOWCASE REPO ](https://github.com/arbtraderlabs/cryptosquawk-showcase)
+
+Production core remains private. Public showcase uses synthetic data.
 
 ```text
 [ OFFCYCLE ]
