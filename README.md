@@ -6,13 +6,29 @@
 > electronic trading, automation and applied AI.
 
 ```text
-$ whoami
-arbtrader
+$ env | grep -E 'OPERATOR|HOST|UPTIME|DESK|STATUS'
 
-$ hostname
-neo
+OPERATOR=arbtrader
+HOST=markets
+UPTIME=20+ years
+DESK=trading-technology
+STATUS=production
+
+$ history | tail -10
+
+market-data pipelines
+FIX order-flow tracing
+Linux production support
+Bash automation
+n8n workflow automation
+SQL analysis
+Forex algorithm testing
+historical market research
+incident response
+AI-assisted systems
 
 $ wake_up neo
+[ OK ] operator online
 ```
 
 ---
