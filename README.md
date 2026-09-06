@@ -14,17 +14,13 @@ UPTIME=20+ years
 DESK=trading-technology
 STATUS=production
 
-$ history | tail -10
+$ history | tail -6
 
 market-data pipelines
 FIX order-flow tracing
-Linux production support
-Bash automation
 n8n workflow automation
-SQL analysis
 Forex algorithm testing
 historical market research
-incident response
 AI-assisted systems
 
 $ wake_up neo
