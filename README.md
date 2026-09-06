@@ -21,7 +21,7 @@ FIX order-flow tracing
 n8n workflow automation
 Forex algorithm testing
 historical market research
-AI-assisted systems
+LLM-assisted automation
 
 $ wake_up neo
 [ OK ] operator online
