@@ -60,6 +60,8 @@ Developer-tooling experiment built around the VS Code extension ecosystem.
 - AI-assisted development
 - product experimentation
 
+**Repo:** [github.com/arbtraderlabs/offcycle](https://github.com/arbtraderlabs/offcycle)
+
 ## 📡 SIGNAL PATH
 
 How systems here get built: AI is one tool inside an engineering process. Every AI-assisted step is surrounded by deterministic tests, validation and operational controls.
