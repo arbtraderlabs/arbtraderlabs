@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="ArbTrader Labs — AI systems, trading tech, automation">
+  <defs>
+    <style>
+      text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+      .t-title { fill: #f0f6fc; font-size: 52px; font-weight: 700; letter-spacing: 2px; }
+      .t-op    { fill: #3fb950; font-size: 20px; }
+      .t-tag   { fill: #c9d1d9; font-size: 17px; letter-spacing: 1px; }
+      .dim     { fill: #8b949e; opacity: 0.55; font-size: 13px; }
+      .ok      { fill: #3fb950; font-size: 13px; }
+      .st      { fill: #8b949e; font-size: 13px; }
+    </style>
+    <pattern id="grid" width="200" height="100" patternUnits="userSpaceOnUse">
+      <path d="M 200 0 L 0 0 0 100" fill="none" stroke="#3fb950" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" fill="none" stroke="#21262d"/>
+
+  <text x="60" y="70" class="dim">// operator profile</text>
+
+  <text x="60" y="152" class="t-title">ARBTRADER LABS</text>
+  <text x="62" y="190" class="t-op">&lt;the_operator /&gt;</text>
+  <line x1="62" y1="214" x2="540" y2="214" stroke="#3fb950" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <text x="62" y="250" class="t-tag">AI SYSTEMS // TRADING TECH // AUTOMATION</text>
+  <rect x="488" y="235" width="12" height="17" fill="#3fb950" opacity="0.85"/>
+
+  <text x="928" y="112" class="st"><tspan class="ok">[ OK ]</tspan><tspan dx="10">SYSTEMS ONLINE</tspan></text>
+  <text x="928" y="144" class="st"><tspan class="ok">[ OK ]</tspan><tspan dx="10">SIGNALS MONITORED</tspan></text>
+  <text x="928" y="176" class="st"><tspan class="ok">[ OK ]</tspan><tspan dx="10">AGENTS CONSTRAINED</tspan></text>
+  <text x="928" y="208" class="st"><tspan class="ok">[ OK ]</tspan><tspan dx="10">HUMAN OVERRIDE ENABLED</tspan></text>
+</svg>
