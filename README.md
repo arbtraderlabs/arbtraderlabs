@@ -58,10 +58,12 @@ FLOW   ingest -> enrich -> gate -> narrate
 Condenses high-volume market events into a smaller set of useful real-time narratives.
 
 - event ingestion & normalisation
-- AI/LLM structured enrichment
+- AI/LLM enrichment with structured outputs
 - deterministic safety gates
-- production & shadow environments · replay / simulation
-- observability · health monitoring · AI cost controls
+- evaluation & shadow validation
+- replay & simulation
+- production observability
+- AI cost / latency controls
 
 Production core remains private while the architecture evolves.
 
@@ -84,6 +86,10 @@ Lightweight developer-tooling experiment built around the VS Code extension ecos
 ## [ SIGNAL_PATH ]
 
 How systems here get built: AI is one tool inside an engineering process. Every AI-assisted step is surrounded by deterministic tests, validation and operational controls.
+
+```text
+problem -> specification -> build -> test -> evaluate -> deploy -> observe -> iterate
+```
 
 ![engineering workflow](assets/system-flow.svg)
 
