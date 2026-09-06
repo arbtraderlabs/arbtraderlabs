@@ -73,20 +73,24 @@ How systems here get built: AI is one tool inside an engineering process. Every 
 
 ## 🛠 OPERATOR TOOLKIT
 
-- **Systems** — Linux · Bash · Networking · SQL · FIX · Git
-- **Production** — Incident management · Troubleshooting · Monitoring · Automation
-- **AI Engineering** — LLM APIs · Agentic workflows · Structured outputs · Local LLMs · Ollama
-- **Engineering** — Python-assisted development · TypeScript · Docker · GitHub · CI/CD concepts
-- **Markets** — Electronic trading · Exchange connectivity · Market data · Order flows
+`linux` `bash` `sql` `fix` `git` `docker` `typescript`
 
-## 🧠 CURRENT FOCUS
+`llm-apis` `ollama` `agentic-workflows` `structured-output`
 
-- AI operations & applied AI systems
-- agentic workflows, LLM observability & evaluation
-- production AI reliability & AI-assisted incident investigation
-- platform engineering & production automation
-- financial & trading technology
+`incident-response` `monitoring` `automation` `market-data`
+
+> tools change. systems thinking doesn't.
 
 ---
 
-*20+ years in technology operations — now applying that experience to AI-native engineering.*
+## 🧠 CURRENT EXPERIMENTS
+
+- making AI systems observable, testable and cheaper to run
+- using agents inside controlled production workflows
+- turning operational problems into small useful tools
+- replaying and validating real-world event pipelines
+- exploring where local models actually make sense
+
+---
+
+> systems first. signals second. hype last.
