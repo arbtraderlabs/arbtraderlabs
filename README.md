@@ -89,6 +89,19 @@ Lightweight developer-tooling experiment built around the VS Code extension ecos
 
 **Repo:** [github.com/arbtraderlabs/offcycle](https://github.com/arbtraderlabs/offcycle)
 
+```text
+[ OPERATOR-FRAMEWORK ]
+TYPE   AI-assisted engineering methodology
+STATE  PUBLIC
+FLOW   orient -> pin down -> establish -> route -> act -> trace -> evaluate
+```
+
+Spec-driven, cost-aware framework for moving AI-assisted engineering from ambiguity to independently verified output.
+
+- reusable skills · specs & ADRs · Git-native tickets · model routing · structured reporting
+
+**Repo:** [github.com/arbtraderlabs/operator-framework](https://github.com/arbtraderlabs/operator-framework)
+
 ## [ SIGNAL_PATH ]
 
 How systems here get built: AI is one tool inside an engineering process. Every AI-assisted step is surrounded by deterministic tests, validation and operational controls.
