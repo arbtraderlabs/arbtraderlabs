@@ -46,6 +46,8 @@ Automated market-data research and analytics platform for studying significant p
 - regression & parity testing
 - Linux-hosted automation · static publication (GitHub Pages)
 
+**Showcase:** [arbtraderlabs.github.io/CrashDash](https://arbtraderlabs.github.io/CrashDash/)
+
 **Repo:** [github.com/arbtraderlabs/CrashDash](https://github.com/arbtraderlabs/CrashDash)
 
 ```text
@@ -65,8 +67,9 @@ Condenses high-volume market events into a smaller set of useful real-time narra
 - production observability
 - AI cost / latency controls
 
-SHOWCASE  https://arbtraderlabs.github.io/cryptosquawk-showcase/
-REPO      https://github.com/arbtraderlabs/cryptosquawk-showcase
+**Showcase:** [arbtraderlabs.github.io/cryptosquawk-showcase](https://arbtraderlabs.github.io/cryptosquawk-showcase/)
+
+**Repo:** [github.com/arbtraderlabs/cryptosquawk-showcase](https://github.com/arbtraderlabs/cryptosquawk-showcase)
 
 Production core remains private. Public showcase uses synthetic data.
 
